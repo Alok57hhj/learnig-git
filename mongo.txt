@@ -1,0 +1,5 @@
+mongodb+srv://admin:<password>@cluster0.la0l0aa.mongodb.net/
+mongodb://localhost:27017
+
+postgress url down
+postgresql://singhalok3655:Z1ujNgWUC9en@ep-quiet-truth-18768818.us-east-2.aws.neon.tech/test?sslmode=require
